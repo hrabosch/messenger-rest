@@ -16,7 +16,7 @@ public class UserMessage {
     private UUID sender;
 
     @Indexed
-    private UUID receiver;
+    private UUID recipient;
 
     private String content;
 
