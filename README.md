@@ -27,8 +27,8 @@ With **JWTConfigAdapter**, we are attaching our custom filter into chain. Filter
 - [x] Login
 - [ ] Logout
 - [x] Send message
-- [ ] List messages
-- [ ] Delete messages
+- [x] List messages
+- [x] Delete messages
 - [x] List users
 - [ ] Controller advice
 - [ ] Test coverage
